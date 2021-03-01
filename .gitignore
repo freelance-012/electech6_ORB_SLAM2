@@ -24,4 +24,6 @@ doc/
 *~
 lib/
 */html/
+.idea/
+*build*/
 
